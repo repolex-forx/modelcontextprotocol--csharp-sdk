@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "csharp-sdk",
+  "versions": [
+    {
+      "commit": "3338e88e15c42cfc27465143c140d7d10f1a2707",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:13:27.748596+00:00"
+    }
+  ]
+}

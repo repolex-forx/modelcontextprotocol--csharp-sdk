@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/csharp-sdk/commit/3338e88e15c42cfc27465143c140d7d10f1a2707",
       "git:hexsha": "3338e88e15c42cfc27465143c140d7d10f1a2707",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
